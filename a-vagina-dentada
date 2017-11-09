@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1">
+		
+		<title>A Vagina Dentada</title>
+
+		<!-- Loading third party fonts -->
+		<link href="http://fonts.googleapis.com/css?family=Roboto:300,400,700|" rel="stylesheet" type="text/css">
+		<link href="fonts/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+		<!-- Loading main css file -->
+		<link rel="stylesheet" href="style-clima.css">
+		
+		<!--[if lt IE 9]>
+		<script src="js/ie-support/html5.js"></script>
+		<script src="js/ie-support/respond.js"></script>
+		<![endif]-->
+
+	</head>
+
+
+	<body>
+		
+
+		<div id="site-content">
+			<header class="site-header">
+				<div class="container">
+					<a href="index.html" id="branding">
+						<img src="images/logo-definitivo.png" alt="" class="logo">
+						<div class="logo-copy">
+							<h1 class="site-title">CineMarcus</h1>
+							<small class="site-description">O cinema "moleque" neutro. </small>
+						</div>
+					</a> <!-- #branding -->
+
+					<div class="main-navigation">
+						<button type="button" class="menu-toggle"><i class="fa fa-bars"></i></button>
+						<ul class="menu">
+							<li class="menu-item"><a href="index.html">Home</a></li>
+							<li class="menu-item"><a href="sobre.html">Sobre nós</a></li>
+							<li class="menu-item current-menu-item"><a href="filmes-pag1.html">Filmes</a></li>
+							<li class="menu-item"><a href="cadastro.html">Cadastre-se</a></li>
+							<li class="menu-item"><a href="contato.html">Contato</a></li>
+						</ul> <!-- .menu -->
+
+						<form action="#" class="search-form">
+							<input type="text" placeholder="Search...">
+							<button><i class="fa fa-search"></i></button>
+						</form>
+					</div> <!-- .main-navigation -->
+
+					<div class="mobile-navigation"></div>
+				</div>
+			</header>
+			<main class="main-content">
+				<div class="container">
+					<div class="page">
+						<div class="breadcrumbs">
+							<a href="index.html">Home</a>
+							<a href="review.html">Review de Filmes</a>
+							<span>A Vagina Dentada</span>
+						</div>
+
+						<div class="content">
+							<div class="row">
+								<div class="col-md-6">
+									<figure class="movie-poster"><img src="a-vagina-dentada/a-vagina-dentada.jpg" alt="#"></figure>
+								</div>
+								<div class="col-md-6">
+									<h2 class="movie-title">A Vagina Dentada (Teeth)</h2>
+									<div class="movie-summary">
+										<p>“Teeth” é uma história aterrorizante de uma menina que possui dentes na vagina, uma condição única e pior que isso não sabe lidar com a situação. É uma espécie de vagina carnívora assassina. Ela não consegue fazer sexo com ninguém e os que tentam ir para a cama com ela ficam em pânico ao perderem pedaços do pênis.” </p>
+									</div>
+									<ul class="movie-meta">
+										<li><strong>Rating:</strong> 
+											<div class="star-rating" title="Rated 4.00 out of 5"><span style="width:100%"><strong class="rating">4.00</strong> out of 5</span></div>
+										</li>
+										<li><strong>Duração: </strong>94 min</li>
+										<li><strong>Lançamento: </strong>2007</li>
+										<li><strong>Categoria: </strong>Terror</li>
+									</ul>
+
+									<ul class="starring">
+										<li><strong>Diretor: </strong>Mitchell Lichtenstein</li>
+										<li><strong>Elenco: </strong>Jess Weixler, John Hensley, Josh Pais, Hale Appleman, Vivienne Benesch, Leslie Dawn Forsyth, Paul Galvan, Julia Garro</li>
+									</ul>
+								</div>
+							</div> <!-- .row -->
+							<div class="entry-content" style="">
+							<table style="width:100%; display: inline-block; text-align: center;">
+							  <tr>
+							    <td><img src="a-vagina-dentada/1.jpg" alt="#"></td>
+							    <td><img src="a-vagina-dentada/2.jpg" alt="#"></td>
+							    <td><img src="a-vagina-dentada/3.jpg" alt="#"></td>
+							  </tr>
+							</table>
+								<div class="video">
+									<iframe src="https://www.youtube.com/embed/vb6uf2yszI8" frameborder="0" allowfullscreen></iframe>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div> 
+
+				<!-- .container -->
+
+			</main>
+			<footer class="site-footer">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-2">
+							<div class="widget">
+								<h3 class="widget-title">Sobre nós</h3>
+								<p>A CINEMARCUS é uma empresa que nasceu em 2017 a partir de um trabalho sem noção a qual a coordenação do curso puxou um e acabou gerando está situação.</p>
+							</div>
+						</div>
+						<div class="col-md-2">
+							<div class="widget">
+								<h3 class="widget-title">Help Center</h3>
+								<ul class="no-bullet">
+									<li>Lorem ipsum dolor</li>
+									<li>Sit amet consecture</li>
+									<li>Dolorem respequem</li>
+									<li>Invenore veritae</li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-md-2">
+							<div class="widget">
+								<h3 class="widget-title">Social Media</h3>
+								<ul class="no-bullet">
+									<li>Facebook</li>
+									<li>Twitter</li>
+									<li>Google+</li>
+									<li>Pinterest</li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-md-2">
+							<div class="widget">
+								<h3 class="widget-title">Newsletter</h3>
+								<form action="#" class="subscribe-form">
+									<input type="text" placeholder="Email Address">
+								</form>
+							</div>
+						</div>
+					</div> 
+					<!-- .row -->
+
+					<div class="colophon">Copyright 2017 CINEMARCUS, Designed by EquipeMolequeNeutro. All rights and lefts reserved, tá ligado!</div>
+				</div> <!-- .container -->
+			</footer>
+		</div>
+		<!-- Default snippet for navigation -->
+		
+
+
+		<script src="js/jquery-1.11.1.min.js"></script>
+		<script src="js/plugins.js"></script>
+		<script src="js/app.js"></script>
+		
+	</body>
+
+</html>
